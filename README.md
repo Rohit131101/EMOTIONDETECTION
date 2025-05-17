@@ -19,7 +19,7 @@ This project implements a **text-based emotion detection system** using machine 
 ---
 
 ## 📂 Project Structure
-
+```
 EmotionDetection/
 │
 ├── emotion_dataset.csv # Dataset used for training
@@ -29,7 +29,7 @@ EmotionDetection/
 ├── label_encoder.pkl # Saved LabelEncoder (if used)
 ├── README.md # Project documentation
 
-
+```
 
 ---
 
