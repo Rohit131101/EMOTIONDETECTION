@@ -46,7 +46,7 @@ EmotionDetection/
 
 1. **Clone the repository** (if hosted):
    ```bash
-   git clone https://github.com/yourusername/emotion-detection.git
+   git clone https://github.com/Rohit131101/EMOTIONDETECTION.git
    cd emotion-detection
 Install dependencies:
 
